@@ -9,8 +9,8 @@
 3. Ikuti langkah-langkah praktikum
 ## Jalankan XAMPP dan akses ```http://localhost/phpmyadmin/``` untuk membuat database.
 ![Gambar](img/lab10.4.png)
-## Buat file ```lab9_php_modular``` pada root directory web server ```(c:\xampp\htdocs)```
-![Gambar](web/lab92.png)
+## Buat file ```lab10_php_oop``` pada root directory web server ```(c:\xampp\htdocs)```
+![lab10 5](https://github.com/hegarr/lab10_php_oop/assets/145521387/9219a15b-bd87-4c52-a919-4cb8c5df04c6)
 ## Buat file baru dengan nama ```mobil.php```
 ```<?php
 /**

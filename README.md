@@ -2,7 +2,7 @@
 | --------- | -----------                  |
 | NIM       | 312010332                    |
 | Kelas     | TI.22.A.3                    |
-# Lab9web
+# Lab10_php_oop
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
 2. Buat folder baru dengan nama lab10_php_oop pada docroot webserver(htdocs)
@@ -210,12 +210,12 @@ class Database {
 }
 ?>
 ```
+## Pertanyaan dan Tugas
+## Implementasikan konsep modularisasi pada kode program praktukum sebelumnya dengan menggunakan class library untuk form dan database connection
 ## Output
 ![Gambar](img/lab10.2.png)
 ![Gambar](img/lab10.3.png)
 ![Gambar](img/lab10.1.png)
-## Pertanyaan dan Tugas
-## Implementasikan konsep modularisasi pada kode program praktukum sebelumnya dengan menggunakan class library untuk form dan database connection
 ## Laporan Praktikum
 1. Buatlah repository baru dengan nama Lab10Web.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
